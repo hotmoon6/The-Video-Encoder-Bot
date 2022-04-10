@@ -1,6 +1,6 @@
 {
     "name": "The-Video-Encoder-Bot",
-    "repository": "https://github.com/tellybots/The-Encoder-Bot",
+    "repository": "https://github.com/hotmoon6/The-Video-Encoder-Bot",
     "env": {
         "API_ID": {
             "description": "",
